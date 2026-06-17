@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.deniedlemonlaw.com/sitemap.xml
